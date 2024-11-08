@@ -1,0 +1,6 @@
+@DailyWorkJournalWebApi_HostAddress = http://localhost:5115
+
+GET {{DailyWorkJournalWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
